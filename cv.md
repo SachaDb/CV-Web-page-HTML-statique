@@ -1,10 +1,14 @@
 # Sacha Dubesset
 
-Futur étudiant BTS SIO option SISR — recherche alternance.
+Étudiant en BTS SIO option SISR, en alternance.
+
+---
 
 ## Présentation
 
-Étudiant rigoureux et curieux, actuellement en formation à Saint-Étienne, à la recherche d'une alternance en BTS SIO option SISR. Polyvalent et patient, j'ai déjà une première expérience concrète du dépannage informatique et de l'administration réseau grâce à mes stages.
+Étudiant rigoureux et curieux, actuellement en BTS SIO option SISR à Saint-Étienne, en alternance à l'hôpital Nord. Polyvalent et patient, j'ai déjà une première expérience concrète du dépannage informatique et de l'administration réseau grâce à mes stages et mon alternance.
+
+---
 
 ## Compétences
 
@@ -14,12 +18,19 @@ Futur étudiant BTS SIO option SISR — recherche alternance.
 - Dépannage informatique à distance et à domicile
 - Rigueur, polyvalence, patience, curiosité
 
+---
+
 ## Formation
 
-- **Lycée Le Marais Sainte-Thérèse**, Saint-Étienne — 2024–2026 (BTS SIO option SISR)
+- **Lycée Le Marais Sainte-Thérèse**, Saint-Étienne — 2024–2026 (BAC PRO CIEL)
 - **Brevet des collèges**, mention Assez Bien — Collège des Gorges de la Loire, Aurec-sur-Loire, Juillet 2023
 
+---
+
 ## Expériences / Projets
+
+**Alternance en cours — Hôpital Nord**
+- Support informatique au traitement de l'apelle 
 
 **Stage professionnel — Micro D'clic, Condrieu (Novembre 2024)**
 - Changement de disque dur
@@ -33,10 +44,14 @@ Futur étudiant BTS SIO option SISR — recherche alternance.
 - Installation de PC dans le cadre d'un projet de nouveau service
 - Mise en réseau, baie de brassage
 
+---
+
 ## Centres d'intérêt
 
 Voyage · Informatique · Automobile
 
+---
+
 ## Contact
 
-📎 Retrouvez-moi sur GitHub : [github.com/TON-ALIAS](https://github.com/TON-ALIAS)
+📎 Retrouvez-moi sur GitHub : [github.com/SachaDb](https://github.com/SachaDb)
